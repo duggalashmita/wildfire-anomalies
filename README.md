@@ -102,4 +102,4 @@ jupyter notebook wildfire_anomalies.ipynb
 
 ## Presentation
 
-This project was presented as a 12-minute environmental data analysis presentation focused on climate variability and wildfire trends in the western United States. :contentReference[oaicite:0]{index=0}
+This project was presented as a 12-minute environmental data analysis presentation focused on climate variability and wildfire trends in the western United States.
