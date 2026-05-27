@@ -81,8 +81,10 @@ wildfire-climate-analysis/
 │
 ├── wildfire_anomalies.ipynb
 ├── README.md
+├── writeup
 ├── data/
 └── presentation/
+
 
 ---
 
